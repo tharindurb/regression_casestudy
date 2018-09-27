@@ -17,6 +17,6 @@
 
 8. Visualise_Data.py: Daraw several visualisations used in the presentation
 
-Data: obtained from the <a href="https://www.kaggle.com/c/favorita-grocery-sales-forecasting">kaggle</a>
+Data: obtained from <a href="https://www.kaggle.com/c/favorita-grocery-sales-forecasting">kaggle</a>
 
-Required Python libraries: Numpy, Pandas, Sklearn, Tensorflow or Theano, Keras, Matplotlib
+Required Python libraries: Numpy, Pandas, Sklearn, Tensorflow, Keras, Lightgbm, Matplotlib
