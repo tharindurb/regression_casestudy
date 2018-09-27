@@ -1,6 +1,6 @@
 # Demand Forecasting on Corporación Favorita Grocery Sales Data
 
-###Code
+### Code
 1. Sampling_dataset.py:  Sampling and preprocessing dataset  
 
 2. Parameter_tunning_GBDT.py: Hyperparameter tunning on Gradient Boost Trees based model 
